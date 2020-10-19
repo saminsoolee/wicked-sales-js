@@ -1,5 +1,5 @@
 import React from 'react';
-import { render } from 'react-dom';
+
 
 class ProductDetails extends React.Component {
   constructor(props) {
@@ -9,7 +9,7 @@ class ProductDetails extends React.Component {
     };
   }
 }
-render(){
-  return null;
+render() {
+  return null
 }
 export default ProductDetails;
